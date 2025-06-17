@@ -30,6 +30,16 @@ We trained two state-of-the-art policies using this dataset:
 - **ACT** struggled particularly with the **grasping phase**, likely due to the complexity of object shapes and placement angles.
 
 
+=======
+  
+## 🎥 Demo Video
+
+[![Watch the demo video](thumbnail.png)](https://drive.google.com/file/d/100kqCb-hejAP7_jGwA8hu3Op_8XBklHM/view?usp=drivesdk)
+
+
+> *Click the image to watch the demo video on Google Drive*
+
+
 ---
 
 ## 🔧 Tech Stack
